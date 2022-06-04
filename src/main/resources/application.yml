@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: mnTest
+  server:
+    port: 8109
+
